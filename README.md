@@ -16,11 +16,13 @@
 <img align=left src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
   
-<img style="min-width:150%;" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 </p>
 
+<br/>
+<br/>
+
 ## Skills
-<hr/>
 
 ![python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![machine learning](https://img.shields.io/badge/Machine%20Leaning-2e5c82?style=for-the-badge&logo=NixOS&logoColor=white)
