@@ -21,7 +21,7 @@
 </picture>
 
   
-<img height=200px alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 
 </p>
 
@@ -61,8 +61,8 @@
 <a href="https://dev.to/chardiwall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="chardiwll" height="40" width="45" /></a>
 <a href="https://stackoverflow.com/users/16899009/samiulhaq-chardewall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="chardiwall" height="40" width="45" /></a>
 <a href="https://kaggle.com/samiulhaqchardewall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="samiulhaq chardewall" height="40" width="45" /></a>
-<a href="https://medium.com/samiulhaq513" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="chardiwall" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@samiulhaq513" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chardiwall" height="40" width="45" /></a>
+<a href="https://medium.com/@samiulhaq513" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="chardiwall" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/samiulhaq513" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chardiwall" height="40" width="45" /></a>
 </p>
 
 <hr/>
