@@ -29,7 +29,7 @@
 <hr/>
 
 ## Info
-- 🔭 I’m currently working [as freelancer and Teacher](https://github.com/chardiwall/Coding-for-beginners-and-beyond)
+- 🔭 I’m currently working [as Freelancer and coding Teacher](https://github.com/chardiwall/Coding-for-beginners-and-beyond)
 
 - 🌱 I’m currently learning **Machine Learning, Computer Vision**
 
@@ -56,7 +56,7 @@
 <hr/>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect With Me:</h3>
 <p align="left"><a style="margin-right:10px" href="https://www.linkedin.com/in/chardiwall/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png?w=740&t=st=1680215035~exp=1680215635~hmac=7c6945dd6e2dd69509b97a87bf5aa5048beef02c494e89d910a8e030fa5b412c" alt="chardiwall" height="40" width="45" /></a>
 <a href="https://dev.to/chardiwll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="chardiwll" height="40" width="45" /></a>
 <a href="https://stackoverflow.com/users/chardiwall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="chardiwall" height="40" width="45" /></a>
