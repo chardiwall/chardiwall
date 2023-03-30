@@ -58,11 +58,11 @@
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left"><a style="margin-right:10px" href="https://www.linkedin.com/in/chardiwall/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png?w=740&t=st=1680215035~exp=1680215635~hmac=7c6945dd6e2dd69509b97a87bf5aa5048beef02c494e89d910a8e030fa5b412c" alt="chardiwall" height="40" width="45" /></a>
-<a href="https://dev.to/chardiwll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="chardiwll" height="40" width="45" /></a>
-<a href="https://stackoverflow.com/users/chardiwall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="chardiwall" height="40" width="45" /></a>
-<a href="https://kaggle.com/samiulhaqchardewall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="samiulhaqchardewall" height="40" width="45" /></a>
-<a href="https://medium.com/chardiwall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="chardiwall" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/chardiwall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chardiwall" height="40" width="45" /></a>
+<a href="https://dev.to/chardiwall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="chardiwll" height="40" width="45" /></a>
+<a href="https://stackoverflow.com/users/samiulhaq-chardewall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="chardiwall" height="40" width="45" /></a>
+<a href="https://kaggle.com/samiulhaqchardewall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="samiulhaq chardewall" height="40" width="45" /></a>
+<a href="https://medium.com/samiulhaq513" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="chardiwall" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/samiulhaq513" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chardiwall" height="40" width="45" /></a>
 </p>
 
 <hr/>
