@@ -63,7 +63,7 @@
 
 ## CV
 
-- 📎 [Resume/CV](https://github.com/chardiwall/chardiwall/blob/master/resumes/Samiulhaq_Resume.pdf)
+- 📎 [Resume/CV](https://github.com/chardiwall/chardiwall/raw/main/Samiulhaq_Resume.pdf)
 <hr/>
 <br>
 
