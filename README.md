@@ -1,4 +1,4 @@
-<h1 align="center">✿ Hi 👋, I'm Samiulhaq Cardiwall ✿</h1>
+<h1 align="center">✿ Hi <img height="30px" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" />,     &nbspI'm Samiulhaq Cardiwall ✿</h1>
 <h3 align="center">A Machine Learning Engineer with a strong passion hailing from Afghanistan.</h3>
 
 
@@ -21,7 +21,7 @@
 </picture>
 
   
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chardiwall&layout=compact" />
 
 </p>
 
@@ -37,34 +37,33 @@
 
 - 💬 Ask me about **Python, Machine Learning, Deep Learning and General AI**
 
-- 📫 How to reach me **samiulhaq513@gmail.com**
 
-![chardiwall's profile](https://komarev.com/ghpvc/?username=chardiwall&label=Profile%20views&color=082036&style=flat)
+- 📫 How to reach me out:
+
+  [![Twitter Badge](https://img.shields.io/badge/-@chardiwall_-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/chardiwall_)
+[![Linkedin Badge](https://img.shields.io/badge/-chardiwall-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chardiwall/)
+[![Mail Badge](https://img.shields.io/badge/-Samiulhaq%20Chardiwall-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:samiulhaq513@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/-samiulhaq513-000000?style=flat&labelColor=23323330&logo=medium&logoColor=white)](https://medium.com/@samiulhaq513)
+[![Discord Badge](https://img.shields.io/badge/-Samiulhaq%20Chardiwall-7289d1?style=flat&labelColor=7289da&logo=discord&logoColor=white)](https://medium.com/@samiulhaq513)
+
+  ![chardiwall's profile](https://komarev.com/ghpvc/?username=chardiwall&label=Profile%20views&color=082036&style=flat)
 
 <hr/>
 
-## Skills
+## Top Technologies
 
 ![python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![machine learning](https://img.shields.io/badge/Machine%20Leaning-2e5c82?style=for-the-badge&logo=NixOS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=python&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Vue.js](https://img.shields.io/badge/Docker-3798fa.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Vue.js](https://img.shields.io/badge/MY%20SQL-000000.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Linux-341fab.svg?style=for-the-badge&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-3798fa.svg?style=for-the-badge&logo=docker&logoColor=white)
+![MYSQL](https://img.shields.io/badge/MY%20SQL-000000.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-341fab.svg?style=for-the-badge&logo=linux&logoColor=white)
 
 <hr/>
 
+## CV
 
-<h3 align="left">Connect With Me:</h3>
-<p align="left"><a style="margin-right:10px" href="https://www.linkedin.com/in/chardiwall/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png?w=740&t=st=1680215035~exp=1680215635~hmac=7c6945dd6e2dd69509b97a87bf5aa5048beef02c494e89d910a8e030fa5b412c" alt="chardiwall" height="40" width="45" /></a>
-<a href="https://dev.to/chardiwall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="chardiwll" height="40" width="45" /></a>
-<a href="https://stackoverflow.com/users/16899009/samiulhaq-chardewall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="chardiwall" height="40" width="45" /></a>
-<a href="https://kaggle.com/samiulhaqchardewall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="samiulhaq chardewall" height="40" width="45" /></a>
-<a href="https://medium.com/@samiulhaq513" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="chardiwall" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/samiulhaq513" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chardiwall" height="40" width="45" /></a>
-</p>
-
+- 📎 [Resume/CV](https://github.com/chardiwall/chardiwall/blob/master/resumes/Samiulhaq_Resume.pdf)
 <hr/>
 <br>
 
