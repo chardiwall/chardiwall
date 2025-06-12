@@ -1,5 +1,5 @@
 <h1 align="center">✿ Hi <img height="30px" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" />,     &nbspI'm Samiulhaq Cardiwall ✿</h1>
-<h3 align="center">A Machine Learning Engineer with a strong passion hailing from Afghanistan.</h3>
+<h3 align="center">PhD Candidate at Sheffield Hallam University working on Neuromorphic Computing and Human-Robot Interaction.</h3>
 
 
 <hr/>
@@ -28,25 +28,15 @@
 <br/>
 <hr/>
 
-## Info
-- 🔭 I’m currently working [as Freelancer and coding Teacher](https://github.com/chardiwall/Coding-for-beginners-and-beyond)
-
-- 🌱 I’m currently learning **Machine Learning, Computer Vision**
-
-- 👨‍💻 All of my projects are available at [https://chardiwall.vercel.app/](https://chardiwall.vercel.app/)
-
-- 💬 Ask me about **Python, Machine Learning, Deep Learning and General AI**
-
-
 - 📫 How to reach me out:
 
-  [![Twitter Badge](https://img.shields.io/badge/-@chardiwall_-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/chardiwall_)
+[![Twitter Badge](https://img.shields.io/badge/-@chardiwall_-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/chardiwall_)
 [![Linkedin Badge](https://img.shields.io/badge/-chardiwall-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chardiwall/)
 [![Mail Badge](https://img.shields.io/badge/-Samiulhaq%20Chardiwall-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:samiulhaq513@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-samiulhaq513-000000?style=flat&labelColor=23323330&logo=medium&logoColor=white)](https://medium.com/@samiulhaq513)
 [![Discord Badge](https://img.shields.io/badge/-Samiulhaq%20Chardiwall-7289d1?style=flat&labelColor=7289da&logo=discord&logoColor=white)](https://medium.com/@samiulhaq513)
 
-  ![chardiwall's profile](https://komarev.com/ghpvc/?username=chardiwall&label=Profile%20views&color=082036&style=flat)
+![chardiwall's profile](https://komarev.com/ghpvc/?username=chardiwall&label=Profile%20views&color=082036&style=flat)
 
 <hr/>
 
@@ -71,5 +61,3 @@
 <hr>
 
 <h4 align=center>✿ Thanks! For Exploring my Coding Universe. ✿</h4>
-
-<p align=center><a href="https://www.buymeacoffee.com/chardiwall"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="110" alt="chardiwall" /></a></p><br><br>
